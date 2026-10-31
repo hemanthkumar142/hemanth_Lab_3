@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Backend Development Lab 2 - SQLite and CRUD routes",
   "main": "app.js",
+  "engines": {
+  "node": "20.x"
+},
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
@@ -10,7 +13,7 @@
   "dependencies": {
     "express": "^5.3.0",
     "sqlite": "^5.1.1",
-    "sqlite3": "^6.0.1"
+    "sqlite3": "^5.1.7"
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
