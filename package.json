@@ -4,8 +4,8 @@
   "description": "Backend Development Lab 2 - SQLite and CRUD routes",
   "main": "app.js",
   "engines": {
-  "node": "20.x"
-},
+    "node": "20.x"
+  },
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
