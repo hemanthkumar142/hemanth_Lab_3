@@ -1,11 +1,11 @@
 **Live Deployment:**  
-https://vijayganesh-lab-3.onrender.com
+
 # Lab 3 – REST API, Query Parameters, Validation and Debugging
 
 ## 1. Project Details
 
 **Project Name:** Book Management REST API  
-**Student Name:** Vijay Ganesh Bonthala  
+**Student Name:** Hemanth Kumar  
 **Course:** Backend Development Fundamentals  
 **Year:** 2nd-CSE-AIDE-2A  
 
